@@ -4,7 +4,7 @@ This project involves the analysis of coffee order data. The data is organized i
 
 ## Sheets Description
 ### 1. Total Sales
-Description: Summarizes the total sales of different coffee types over various months and years.
+- Description: Summarizes the total sales of different coffee types over various months and years.
 Formulas Used:
 SUMIFS: Used to calculate the total sales for each coffee type and month.
 Pivot Table: Summarizes data for easy analysis.
